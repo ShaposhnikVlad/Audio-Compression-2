@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar 31 11:47:16 2019
-
-@author: Narayanan Krishna
+Shaposhnik Vladislav 09.10.22
 """
 from __future__ import print_function, division, unicode_literals
 import wave
